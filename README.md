@@ -59,18 +59,24 @@ The following are the four seasons and the periods in Japan. Prices of flight an
   </tr>
 </table>
 
+<ul>
 <li>Note: hotel charges will be based on single, double or triple. For double and triple the hotel cost as shown above divide by 2.</li>
+</ul>
 
 The following are the prices for two categories of food for lunch and dinner. Breakfast is included in the hotel booking.
 
+<ul>
 <li>High: Lunch is $50/person, Dinner is $90/person</li>
 <li>Average: Lunch is $15/person, Dinner is $25/person</li>
+</ul>
 
 The prices for tour guide are as follow.
 
+<ul>
 <li>$120 per day per group of 1 to 10 persons</li>
 <li>$200 per day per group of 11 to 30 persons</li>
-<li>Each tour guide can only handle maximum of 30 persons. That is if a group of 31 persons will need 2 tour guide.<li>
+<li>Each tour guide can only handle maximum of 30 persons. That is if a group of 31 persons will need 2 tour guide.</li>
+</ul>
 
 From this information, build an online booking system to calculate the cost of the tour per group and per person.
 User interface should be a GUI (graphical user interface) using AWT/Swing.
