@@ -28,6 +28,24 @@ Summer | June to August        | Base price x 1.5 | Base price x 1.2
 Autumn | September to November | Base price x 1.2 | Base price x 1.4
 Winter | December to February  | Base price x 1.4 | Base price x 1.1
 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table>
+
 • Note: hotel charges will be based on single, double or triple. For double and triple the hotel cost as shown above divide by 2.
 
 The following are the prices for two categories of food for lunch and dinner. Breakfast is included in the hotel booking.
