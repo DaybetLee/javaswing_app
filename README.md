@@ -22,27 +22,36 @@ The following are the four seasons and the periods in Japan. Prices of flight an
 • Autumn: September to November
 • Winter: December to February
 
-Seasons| Period                | Flight           | Hotel
-Spring | March to May          | Base price x 1.3 | Base price x 1.3
-Summer | June to August        | Base price x 1.5 | Base price x 1.2
-Autumn | September to November | Base price x 1.2 | Base price x 1.4
-Winter | December to February  | Base price x 1.4 | Base price x 1.1
-
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <th>Seasons</th>
+    <th>Period</th>
+    <th>Flight</th>
+    <th>Hotel</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>Spring</td>
+    <td>March to May</td>
+    <td>Base price x 1.3</td>
+    <td>Base price x 1.3</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>Summer</td>
+    <td>June to August </td>
+    <td>Base price x 1.5</td>
+    <td>Base price x 1.2</td>
+  </tr>
+  <tr>
+    <td>Autumn</td>
+    <td>September to November</td>
+    <td>Base price x 1.2</td>
+    <td>Base price x 1.4</td>
+  </tr>
+  <tr>
+    <td>Winter</td>
+    <td>December to February</td>
+    <td>Base price x 1.4</td>
+    <td>Base price x 1.1</td>
   </tr>
 </table>
 
