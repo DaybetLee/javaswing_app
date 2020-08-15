@@ -9,18 +9,22 @@ Lee Brother Travel Company is a local travel agency specializing in arranging Ja
 The pricing will depend on the selected region, season, flight, hotel, food and tour guide. Below is a guide to the various parameters.
 The list of regions and their base prices per person are as follow:
 
-1. Tokyo ($400)
-2. Osaka ($450)
-3. Fukuoka ($500)
-4. Okinawa ($550)
-5. Hokkaido ($600) 
+<ol>
+  <li>Tokyo ($400)</li>
+  <li>Osaka ($450)</li>
+  <li>Fukuoka ($500)</li>
+  <li>Okinawa ($550)</li>
+  <li>Hokkaido ($600) </li>
+</ol> 
 
 The following are the four seasons and the periods in Japan. Prices of flight and hotel vary according to the season.
 
-• Spring: March to May
-• Summer: June to August
-• Autumn: September to November
-• Winter: December to February
+<ul>
+  <li>Spring: March to May</li>
+  <li>Summer: June to August</li>
+  <li>Autumn: September to November</li>
+  <li>Winter: December to February</li>
+</ul>
 
 <table style="width:100%">
   <tr>
@@ -55,18 +59,18 @@ The following are the four seasons and the periods in Japan. Prices of flight an
   </tr>
 </table>
 
-• Note: hotel charges will be based on single, double or triple. For double and triple the hotel cost as shown above divide by 2.
+<li>Note: hotel charges will be based on single, double or triple. For double and triple the hotel cost as shown above divide by 2.</li>
 
 The following are the prices for two categories of food for lunch and dinner. Breakfast is included in the hotel booking.
 
-• High: Lunch is $50/person, Dinner is $90/person
-• Average: Lunch is $15/person, Dinner is $25/person
+<li>High: Lunch is $50/person, Dinner is $90/person</li>
+<li>Average: Lunch is $15/person, Dinner is $25/person</li>
 
 The prices for tour guide are as follow.
 
-• $120 per day per group of 1 to 10 persons
-• $200 per day per group of 11 to 30 persons
-• Each tour guide can only handle maximum of 30 persons. That is if a group of 31 persons will need 2 tour guide.
+<li>$120 per day per group of 1 to 10 persons</li>
+<li>$200 per day per group of 11 to 30 persons</li>
+<li>Each tour guide can only handle maximum of 30 persons. That is if a group of 31 persons will need 2 tour guide.<li>
 
 From this information, build an online booking system to calculate the cost of the tour per group and per person.
 User interface should be a GUI (graphical user interface) using AWT/Swing.
