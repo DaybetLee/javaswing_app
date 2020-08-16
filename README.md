@@ -1,7 +1,7 @@
 # My School Assignment 1</h1>
 
 This is my first application source code for my school assignment.
-It is coded in Java on NetBeans IDE 8.2.
+It was coded in Java on NetBeans IDE 8.2.
 
 Here are the requirements:
 
